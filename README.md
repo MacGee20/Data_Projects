@@ -8,4 +8,4 @@ Different plots were generated after gathering and cleaning data sets. Merging o
 
 Recommendations were made at the end from insights gotten from the various charts that were generated.
 
-https://github.com/MacGee20/Africa-health-data/blob/main/10alytics_hackathon_case%20study/Afr_Health_Data_Report.pdf
+(https://macgee20.github.io/Africa-health-data/10alytics_hackathon_case%20study/Afr_Health_Data_Report.pdf)
