@@ -1,4 +1,3 @@
-# Africa-health-data
 
 ### OVERVIEW
 A 2022 10alytics hackathon:
