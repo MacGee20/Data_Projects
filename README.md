@@ -7,3 +7,5 @@ The data consist of a variety of records from the world bank. These data include
 Different plots were generated after gathering and cleaning data sets. Merging of data sets was neccessary to have a well defined data table.
 
 Recommendations were made at the end from insights gotten from the various charts that were generated.
+
+10alytics_hackathon_case study/Afr_Health_Data_Report.pdf
